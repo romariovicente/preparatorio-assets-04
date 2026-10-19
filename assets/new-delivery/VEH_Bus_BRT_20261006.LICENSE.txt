@@ -1,0 +1,260 @@
+{
+  "sourceCredits": {},
+  "licenseStatus": "No license or attribution file in supplied OBJ folder; source provenance pending",
+  "sourceFiles": [
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_0.obj",
+      "sha256": "8bdebb12a752491b245ad6e322698f153633c09743b6f1e8dcac8406649e3cbb",
+      "geometrySha256": "da98d48620e80090c6e29d29498dcafdf1db4553e79b2bfe2308709776486871",
+      "missingMtllib": [
+        "model_0.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_1.obj",
+      "sha256": "26451cc3cad2cdada975d8d0758b5d1d9288bc9961317e3feef314d0e8eea64b",
+      "geometrySha256": "d32458217ec5e41037fa64f9b7669e8f3b6170937303a0bb7a142c9a075a88f2",
+      "missingMtllib": [
+        "model_1.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_2.obj",
+      "sha256": "dd0458b533d16d13741a9774773120691b8f66ada8a90a7928f104728ba0c469",
+      "geometrySha256": "47ec059b01137c5a34063efa972342bff5c89d58db07f31e111810f4f0b4f0cc",
+      "missingMtllib": [
+        "model_2.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_3.obj",
+      "sha256": "189b9d6ab053f24215d639ff87163c8626dc625bae9acd7ca702a0ae0cba9ede",
+      "geometrySha256": "b3741e152a9a475ef76711a428790c1d131fcd9d5b2e05a16be26ef542ece05c",
+      "missingMtllib": [
+        "model_3.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_4.obj",
+      "sha256": "dccbe7dc111d7e15f684226c4b8178551ff54f74a94c08a6b0076f53f893ada5",
+      "geometrySha256": "2773c37fde261277754b1922724622db32f4c252013fe5fde422f30127afa1bc",
+      "missingMtllib": [
+        "model_4.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_5.obj",
+      "sha256": "aa1c0e3354f54226243833f9da05b11822c60f198bb799b0cd051470d0eea3b8",
+      "geometrySha256": "145ce23931b7c4e2ec0461293a5c6aa3b705f9a93e1edd64ad8b165246b1abbd",
+      "missingMtllib": [
+        "model_5.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_6.obj",
+      "sha256": "89b644bd71b506db166bd9ab20f1fd5dbd1642e35faac15b6b7ff38432413868",
+      "geometrySha256": "5098b059dc2d7184a198903953ccb2ef2dbb3e07ddfdb8b2c44bc052287f4266",
+      "missingMtllib": [
+        "model_6.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_7.obj",
+      "sha256": "a452e763d44fd23a776110ce60f915fe812d26b9d324885f0b5722a8bc2bfbf8",
+      "geometrySha256": "3e0becb53b07cc5b08bc66d26bff12ef7186ff489a237baf05e3cb7b5d3061e6",
+      "missingMtllib": [
+        "model_7.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_8.obj",
+      "sha256": "4561a652468531deb75281fe7d926fabcabcfab56bbd2de9f3813749ae440e1a",
+      "geometrySha256": "75641be8eb91d3e7aa2b5a214d75412a178c33d4a3f9861ebad3771ed4f137a4",
+      "missingMtllib": [
+        "model_8.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_9.obj",
+      "sha256": "177cd852a03e6d23c927423902b2be3a51d79e963a01da4c32b67f5d999b5726",
+      "geometrySha256": "d9787255ff9ce89f9a461e3f55f5ddcb69a236f6414aed4f10d792877155a96b",
+      "missingMtllib": [
+        "model_9.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_10.obj",
+      "sha256": "74430e0aaf4c8162990fe227bd31bd6f3acc6258df3b68d2e26cfedacb98b9f2",
+      "geometrySha256": "d8383d70766b72f28e076859e9491b6e603c8e496f4f10ceec7c31d6288767f2",
+      "missingMtllib": [
+        "model_10.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_11.obj",
+      "sha256": "afb22b380d3f1acff1af0ad5c3659dc3c94ba2b7fc538860a58e7aab3a517df0",
+      "geometrySha256": "3a62cde86e42c107e1fd5faaa2dadeceaead1c57df28d6db7fb2bfee90cdaf28",
+      "missingMtllib": [
+        "model_11.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_12.obj",
+      "sha256": "ec8b41469fb9d18c05d32a081b83727fdf2e8396584d2097d044559008b2e929",
+      "geometrySha256": "8aa6de1c6219be65e0029a8970f259c9b9cd494c09be31ba6916f686317cb335",
+      "missingMtllib": [
+        "model_12.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_13.obj",
+      "sha256": "a3f48697d205f4e1b4861015ba87ea2c25deea1ee8767b1022902be657cce15f",
+      "geometrySha256": "e42ee0bb61facedc04c0bf4cfb203338d4485d05a3e4b21ea51fc6c8f56802bb",
+      "missingMtllib": [
+        "model_13.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_14.obj",
+      "sha256": "56530cde3ddbeb5b29825d0fa31c5583aff75393b47888bce64523445a17a034",
+      "geometrySha256": "edc99a1baf5f35870755bf390d9442de787effa776fca27e53bacb4f97932f51",
+      "missingMtllib": [
+        "model_14.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_15.obj",
+      "sha256": "71305852192f2f4311cb8888458dafcd8aa1e9bb11d1cb9f867cd2203f2ef1d9",
+      "geometrySha256": "85056aee6df921b0e6f2b7201bb28cd5706fd3bc202086e47646aeabc6973b46",
+      "missingMtllib": [
+        "model_15.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_16.obj",
+      "sha256": "07b9ad13c1fd806f457e354015ba428d14d5e5e682ae5add9bf2466fd6d37083",
+      "geometrySha256": "e79136d21abfb4f24a321bf426ca5bc4545096b7be3358bcbdb4f974c2a57ed6",
+      "missingMtllib": [
+        "model_16.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_17.obj",
+      "sha256": "f3cd48bccdbfb8c93a5cbe38b6442f528f8577027294cbccc6ae5d6669f5692c",
+      "geometrySha256": "1d9bcb79065b788b9815e237181bc74b2b0919aa3367cbd17fb02049688c1a12",
+      "missingMtllib": [
+        "model_17.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_18.obj",
+      "sha256": "a89776303a157de2c59f18eb2aa3969db51723c7f3b346a615f4a30ee2eaa08e",
+      "geometrySha256": "3de990aa8276816cf9f204dd88e4d287a85a23d6e8a83777bae1e0a378ff4533",
+      "missingMtllib": [
+        "model_18.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_19.obj",
+      "sha256": "d6789356141958246aaffda99965453a5549d0bd3b5f27a10f7444b0156900f7",
+      "geometrySha256": "a2ff234ecdd90ae5d3f3c97605a8ddbc73d6380c9e56e909f4d81a09296a2a0c",
+      "missingMtllib": [
+        "model_19.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_20.obj",
+      "sha256": "ec2e102c943abfe694f37cbf890ff4283479b1467a92bd292d8a0c302df821dc",
+      "geometrySha256": "a2f195f49c881bbbc360c3bbc70be9eecd81328dd19a6fd60342955978f2513c",
+      "missingMtllib": [
+        "model_20.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_21.obj",
+      "sha256": "0fc37bb3f8af59dc47471068cad51024eb3e3e75a555438a7adf2ca2d4ee753d",
+      "geometrySha256": "66bb0fce46e7b060b9d72b74ebe23762812f59d6ff185d75df7abb081b9deb9f",
+      "missingMtllib": [
+        "model_21.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_22.obj",
+      "sha256": "185fe0ececb8f502fec2517b99a7b8befa1c2496c42b2370ac4b30b8752adaf2",
+      "geometrySha256": "ba1f0204c5b7d967f2419c10a081276f5f675482dc83499dbf3cd498a7c67523",
+      "missingMtllib": [
+        "model_22.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_23.obj",
+      "sha256": "c278205fec77b56dd72f43bbf4b85af9933af86d38f475792b86f7bc9bd7db9d",
+      "geometrySha256": "7794b48ac5ad700a3d4a93b2f6485f330f8bf0719fa004928d3602c0ab02944d",
+      "missingMtllib": [
+        "model_23.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_24.obj",
+      "sha256": "4bde5ff934e4678e0e63db571c1f01566c7cb84845e79ba3c7ec017d3b78a417",
+      "geometrySha256": "36b1a8f0ca0eaece5a80e6d48f656a953e6ca01c34b5ffad6b4d211a76990329",
+      "missingMtllib": [
+        "model_24.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_25.obj",
+      "sha256": "37b94f594e5995ff5589f544fbda7a577681e5921e921854fe65b90bb4907679",
+      "geometrySha256": "5a57c4ce7fb639c8ce61bc278cd735ee3ef2e4b09f7171addc2fa21664bc47e7",
+      "missingMtllib": [
+        "model_25.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_26.obj",
+      "sha256": "85cbea5b07096543d945286bce2b77b847e6f170d8c7ef8208d718d9f72c9e0e",
+      "geometrySha256": "2625a8e62f7c45e8780aeffc4dcd39d6c827f4130191c55ca2be22970edeb058",
+      "missingMtllib": [
+        "model_26.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_27.obj",
+      "sha256": "11b45380e5653db5c66b36c3286bf889f8857e09ae37d8d8beae81940ca5705e",
+      "geometrySha256": "1dac0a31e68e2a1acf897c0ff7243f2720d10fab0ec5f2d3ffb554a478597c4e",
+      "missingMtllib": [
+        "model_27.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_28.obj",
+      "sha256": "e3ebc2041d3c9e58a977157e045662324f94447c3a06f42263732b67c4293c90",
+      "geometrySha256": "d6702991d62cd9d06188d7721a30a8225e580f6e52786635e849346055dae818",
+      "missingMtllib": [
+        "model_28.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_29.obj",
+      "sha256": "df237ebe040d661d3943458f0051200030bee8ddfa2be9342287afdab3eb21a3",
+      "geometrySha256": "c4ee4af6a57c8c39ff9baa480d0eeb22056b99090b571e5f34b4e220490d2882",
+      "missingMtllib": [
+        "model_29.mtl"
+      ]
+    },
+    {
+      "file": "ônibus\\Caio Millennium BRT - Mecedes Benz O500UDA\\model_30.obj",
+      "sha256": "73d56cc2c2fff9f6d36821715a0282910d3f0fbba6b418d13a04ae0f3e433c28",
+      "geometrySha256": "f89ce06a9d76a50d655466efeecd603a7beb5369126a69bb59b0576cb33f6780",
+      "missingMtllib": [
+        "model_30.mtl"
+      ]
+    }
+  ],
+  "modifications": [
+    "Uniform normalization of freshly imported static derivative only; centered horizontal origin and minimum Z=0; source geometry and files retained",
+    "Missing OBJ MTL: documented provisional part-level PBR materials; no source logos/textures copied to buses",
+    "Per-part decimation to web presentation budget; part hierarchy and source scene preserved",
+    "Original Portuguese 3D PREPARATÓRIO/HOSPITAL CENTRO fleet signage added"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "sourceCredits": {
+    "author": "agbpontes (https://sketchfab.com/agbpontes)",
+    "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "source": "https://sketchfab.com/3d-models/estudiante-s-xviii-61a8ae7296884ed3a4d43d838b5412bd",
+    "title": "Estudiante S. XVIII"
+  },
+  "licenseStatus": "CC-BY-4.0 embedded in supplied GLB",
+  "sourceFiles": [
+    {
+      "file": "Personagens\\Estudiante S. XVIII\\estudiante_s._xviii.glb",
+      "sha256": "0cb9cbe6e9eb067bdafd5e83eddffbca9413dd06d972264604753bca035aded9"
+    }
+  ],
+  "modifications": [
+    "Uniform normalization of freshly imported static derivative only; centered horizontal origin and minimum Z=0; source geometry and files retained",
+    "Original supplied PBR materials retained on derivative; textures capped at 2048 character / 1024 environment",
+    "Per-part decimation to web presentation budget; part hierarchy and source scene preserved"
+  ]
+}

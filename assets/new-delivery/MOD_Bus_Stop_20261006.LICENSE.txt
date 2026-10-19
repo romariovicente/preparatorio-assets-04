@@ -1,0 +1,19 @@
+{
+  "sourceCredits": {
+    "author": "sheba1998 (https://sketchfab.com/sheba1998)",
+    "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "source": "https://sketchfab.com/3d-models/gbus-bus-stop-ba4808305d8544eca08c0dcffda79ef4",
+    "title": "Gbus Bus Stop"
+  },
+  "licenseStatus": "CC-BY-4.0 embedded in supplied GLB",
+  "sourceFiles": [
+    {
+      "file": "Parada de ônibus\\gbus_bus_stop.glb",
+      "sha256": "608809ecae553338de51401e7b7dd1394726a4fbd823168879a71b25c72f1d57"
+    }
+  ],
+  "modifications": [
+    "Uniform normalization of freshly imported static derivative only; centered horizontal origin and minimum Z=0; source geometry and files retained",
+    "Original supplied PBR materials retained on derivative; textures capped at 2048 character / 1024 environment"
+  ]
+}
