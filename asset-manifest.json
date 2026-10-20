@@ -50,6 +50,18 @@
       "url": "https://romariovicente.github.io/preparatorio-assets-04/assets/additions20261016/FAUNA_WOLF_20261016.jpg"
     },
     {
+      "path": "/assets/additions20261019/PROP_Motor_Dobra_20261019.glb",
+      "bytes": 9428120,
+      "sha256": "dc35e38795117c40c2a813dc85dbf89aba947a759de2afc109f94f205ca790ba",
+      "url": "https://romariovicente.github.io/preparatorio-assets-04/assets/additions20261019/PROP_Motor_Dobra_20261019.glb"
+    },
+    {
+      "path": "/assets/characters/CHR_Stylized_Female_Futuristic_Pilot___Ferra_Actions_v5.glb",
+      "bytes": 3544416,
+      "sha256": "8484effb07edbac154092472549ac7fe473229e43e392de43951f2f3e7e367e1",
+      "url": "https://romariovicente.github.io/preparatorio-assets-04/assets/characters/CHR_Stylized_Female_Futuristic_Pilot___Ferra_Actions_v5.glb"
+    },
+    {
       "path": "/assets/characters/CHR_bone_seraph_skeletal_angel_Actions_v3.glb",
       "bytes": 5005024,
       "sha256": "d0a57f873ba09ee7efb90ee3ccf83a6fbd80d56e30cbaeb1e7943f3370966ff5",
@@ -84,12 +96,6 @@
       "bytes": 3380100,
       "sha256": "31ddfadb6c929f56b624020b5227d0b3c94b9486a57031cb8512969f33c06744",
       "url": "https://romariovicente.github.io/preparatorio-assets-04/assets/characters/CHR_school_girl_v21_Rig_v2.glb"
-    },
-    {
-      "path": "/assets/characters/CHR_Stylized_Female_Futuristic_Pilot___Ferra_Actions_v5.glb",
-      "bytes": 3544416,
-      "sha256": "8484effb07edbac154092472549ac7fe473229e43e392de43951f2f3e7e367e1",
-      "url": "https://romariovicente.github.io/preparatorio-assets-04/assets/characters/CHR_Stylized_Female_Futuristic_Pilot___Ferra_Actions_v5.glb"
     },
     {
       "path": "/assets/characters/CHR_woman_standing_v16_Actions_v3.glb",
@@ -260,16 +266,16 @@
       "url": "https://romariovicente.github.io/preparatorio-assets-04/assets/new-delivery/CHAR_Student_XVIII_20261006.LICENSE.txt"
     },
     {
-      "path": "/assets/new-delivery/MOD_Bus_Stop_20261006.glb",
-      "bytes": 33284068,
-      "sha256": "d32c5bd9c3d8424933c3e4f1d911b944c8fdda0c8c262f50629495dc4142f186",
-      "url": "https://romariovicente.github.io/preparatorio-assets-04/assets/new-delivery/MOD_Bus_Stop_20261006.glb"
-    },
-    {
       "path": "/assets/new-delivery/MOD_Bus_Stop_20261006.LICENSE.txt",
       "bytes": 829,
       "sha256": "222ad6f349d6c60759f97d4720e84d4d284bf529cc5e6009309a964858571248",
       "url": "https://romariovicente.github.io/preparatorio-assets-04/assets/new-delivery/MOD_Bus_Stop_20261006.LICENSE.txt"
+    },
+    {
+      "path": "/assets/new-delivery/MOD_Bus_Stop_20261006.glb",
+      "bytes": 33284068,
+      "sha256": "d32c5bd9c3d8424933c3e4f1d911b944c8fdda0c8c262f50629495dc4142f186",
+      "url": "https://romariovicente.github.io/preparatorio-assets-04/assets/new-delivery/MOD_Bus_Stop_20261006.glb"
     },
     {
       "path": "/assets/new-delivery/MOD_Bus_Stop_20261006.preview.png",
@@ -324,6 +330,42 @@
       "bytes": 7207028,
       "sha256": "ca7aa1db63f3766636291ef94298aed86a779d1c86737fb84c01a053f0f0bcd2",
       "url": "https://romariovicente.github.io/preparatorio-assets-04/assets/supplied/SUP_2025_Rolls_Royce_Cullinan_Mansory.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_Helicóptero_de_ataque_pesado.jpg",
+      "bytes": 15808,
+      "sha256": "4bc66293d41c3e50af3ede42c25a8458fcb1ae4638f5163205962e46cfc9bb3b",
+      "url": "https://romariovicente.github.io/preparatorio-assets-04/assets/supplied/SUP_Helicóptero_de_ataque_pesado.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_Lamborghini_Vision_Gran_Turismo.jpg",
+      "bytes": 14380,
+      "sha256": "944a1c0d7c6c8da14d3d22d400da24dc3221147c94d6d2ae349130802d293dbd",
+      "url": "https://romariovicente.github.io/preparatorio-assets-04/assets/supplied/SUP_Lamborghini_Vision_Gran_Turismo.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_Posto_de_Gasolina.glb",
+      "bytes": 205708,
+      "sha256": "1b25a6137a23088fd3295484554e1aa44d0da785f08c618d2a085f5670038044",
+      "url": "https://romariovicente.github.io/preparatorio-assets-04/assets/supplied/SUP_Posto_de_Gasolina.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_Rolls_Royce_Mansory_Phantom.glb",
+      "bytes": 8719432,
+      "sha256": "871922422657ac1e42028c31b028591fa45d790cfc039aefd9343f8cdcb5bff2",
+      "url": "https://romariovicente.github.io/preparatorio-assets-04/assets/supplied/SUP_Rolls_Royce_Mansory_Phantom.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_Ukrainian_navy_maritime_drone.glb",
+      "bytes": 366056,
+      "sha256": "f50e56b8ae514a868f42d0d772d4fff8602c335ec07b4c6a1cd58ea2ca3bba47",
+      "url": "https://romariovicente.github.io/preparatorio-assets-04/assets/supplied/SUP_Ukrainian_navy_maritime_drone.glb"
+    },
+    {
+      "path": "/assets/supplied/SUP_Vitruvian_Man_3D.glb",
+      "bytes": 4055264,
+      "sha256": "3bdf791465524c7f0f0cf539f8369e6a91031ceeb927a2cfcca1625d89189456",
+      "url": "https://romariovicente.github.io/preparatorio-assets-04/assets/supplied/SUP_Vitruvian_Man_3D.glb"
     },
     {
       "path": "/assets/supplied/SUP_acce79be32c14c4fb9309567728a3.glb",
@@ -524,12 +566,6 @@
       "url": "https://romariovicente.github.io/preparatorio-assets-04/assets/supplied/SUP_halo_4campaignmission_1_dawn.glb"
     },
     {
-      "path": "/assets/supplied/SUP_Helicóptero_de_ataque_pesado.jpg",
-      "bytes": 15808,
-      "sha256": "4bc66293d41c3e50af3ede42c25a8458fcb1ae4638f5163205962e46cfc9bb3b",
-      "url": "https://romariovicente.github.io/preparatorio-assets-04/assets/supplied/SUP_Helicóptero_de_ataque_pesado.jpg"
-    },
-    {
       "path": "/assets/supplied/SUP_hospital_01.jpg",
       "bytes": 14532,
       "sha256": "5ff9c464fa143acae6734b759d091eeecdef46552ff6f36e032e58e4b72f90c0",
@@ -540,12 +576,6 @@
       "bytes": 1817840,
       "sha256": "a3eaf3608a32e901eeaf18cd1893088fe29d8f23753d49c3f5b07925f1506aa2",
       "url": "https://romariovicente.github.io/preparatorio-assets-04/assets/supplied/SUP_japanese_school_girl_v25.glb"
-    },
-    {
-      "path": "/assets/supplied/SUP_Lamborghini_Vision_Gran_Turismo.jpg",
-      "bytes": 14380,
-      "sha256": "944a1c0d7c6c8da14d3d22d400da24dc3221147c94d6d2ae349130802d293dbd",
-      "url": "https://romariovicente.github.io/preparatorio-assets-04/assets/supplied/SUP_Lamborghini_Vision_Gran_Turismo.jpg"
     },
     {
       "path": "/assets/supplied/SUP_low_altitude_assault_transport_.glb",
@@ -584,12 +614,6 @@
       "url": "https://romariovicente.github.io/preparatorio-assets-04/assets/supplied/SUP_plague_doctor_alchemist___glass_beak_mask.glb"
     },
     {
-      "path": "/assets/supplied/SUP_Posto_de_Gasolina.glb",
-      "bytes": 205708,
-      "sha256": "1b25a6137a23088fd3295484554e1aa44d0da785f08c618d2a085f5670038044",
-      "url": "https://romariovicente.github.io/preparatorio-assets-04/assets/supplied/SUP_Posto_de_Gasolina.glb"
-    },
-    {
       "path": "/assets/supplied/SUP_rayfield_excalibur_2077_arasaka.glb",
       "bytes": 14997292,
       "sha256": "6c1030d136b5ba1b6052fa42036f57970b43d23d1219a27fe7e93b26e58ae5d1",
@@ -600,12 +624,6 @@
       "bytes": 9404,
       "sha256": "78b427e69b21d94a8306cb959e8e7c9a809f0e61bfdddae91114f3dafc189274",
       "url": "https://romariovicente.github.io/preparatorio-assets-04/assets/supplied/SUP_rayfield_excalibur_2077_arasaka.jpg"
-    },
-    {
-      "path": "/assets/supplied/SUP_Rolls_Royce_Mansory_Phantom.glb",
-      "bytes": 8719432,
-      "sha256": "871922422657ac1e42028c31b028591fa45d790cfc039aefd9343f8cdcb5bff2",
-      "url": "https://romariovicente.github.io/preparatorio-assets-04/assets/supplied/SUP_Rolls_Royce_Mansory_Phantom.glb"
     },
     {
       "path": "/assets/supplied/SUP_sa342m_gazelle.jpg",
@@ -662,22 +680,10 @@
       "url": "https://romariovicente.github.io/preparatorio-assets-04/assets/supplied/SUP_trilhos_obj_20261016.jpg"
     },
     {
-      "path": "/assets/supplied/SUP_Ukrainian_navy_maritime_drone.glb",
-      "bytes": 366056,
-      "sha256": "f50e56b8ae514a868f42d0d772d4fff8602c335ec07b4c6a1cd58ea2ca3bba47",
-      "url": "https://romariovicente.github.io/preparatorio-assets-04/assets/supplied/SUP_Ukrainian_navy_maritime_drone.glb"
-    },
-    {
       "path": "/assets/supplied/SUP_vehiclesunsccapital_shipsstrident.glb",
       "bytes": 142120,
       "sha256": "cefd28ce5a0ca2392d03dd66eebe221bb79ee70821dbaaa031ab90c747efc56a",
       "url": "https://romariovicente.github.io/preparatorio-assets-04/assets/supplied/SUP_vehiclesunsccapital_shipsstrident.glb"
-    },
-    {
-      "path": "/assets/supplied/SUP_Vitruvian_Man_3D.glb",
-      "bytes": 4055264,
-      "sha256": "3bdf791465524c7f0f0cf539f8369e6a91031ceeb927a2cfcca1625d89189456",
-      "url": "https://romariovicente.github.io/preparatorio-assets-04/assets/supplied/SUP_Vitruvian_Man_3D.glb"
     },
     {
       "path": "/assets/supplied/SUP_volkswagen_crafter.jpg",
