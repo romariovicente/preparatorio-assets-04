@@ -188,6 +188,12 @@
       "url": "https://romariovicente.github.io/preparatorio-assets-04/assets/cyber/PROP_truck-trailer-tanker_scene_20261005.glb"
     },
     {
+      "path": "/assets/environment/runtime/ENV_Oak_Small_001_LOD0_20261021.glb",
+      "bytes": 6395464,
+      "sha256": "a4107ec692c57549fdb1429b9edb988124571ac5d0d6fcdf9eed6fa7184b3dba",
+      "url": "https://romariovicente.github.io/preparatorio-assets-04/assets/environment/runtime/ENV_Oak_Small_001_LOD0_20261021.glb"
+    },
+    {
       "path": "/assets/models/ENV_PREP_Campus_v2.glb",
       "bytes": 13802696,
       "sha256": "bbbb00be10b954e814cdce08a248ccc2cea1a5822df00290cac93369e3755b1d",
